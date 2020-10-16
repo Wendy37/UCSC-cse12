@@ -25,6 +25,7 @@ These equations can be simplified by using logic minimization:
   1. f(b_2) = c'd+cd' = in_1'*in_0 + in_1*in_0'
   2. f(b_1) = c'd+cd  = in_1'*in_0 + in_1*in_0
 Then I designed the circuit on page 4 based on equations above.
+
 Since b_0 equals to 0 for all conditions, I connect it to ground.
 
  --------------
